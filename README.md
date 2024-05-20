@@ -1,2 +1,2 @@
 # LiteraluraDesafio
-Aplicacion de libros API y base de datos
+Aplicación de libros con API y base de datos
